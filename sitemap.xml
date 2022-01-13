@@ -16,11 +16,6 @@
   </url>
   
   <url>
-    <loc>https://SamuelFountain.github.io/rush/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://SamuelFountain.github.io/about/</loc>
   </url>
   
@@ -74,6 +69,10 @@
   
   <url>
     <loc>https://SamuelFountain.github.io/project/rio-furniture-6/</loc>
+  </url>
+  
+  <url>
+    <loc>https://SamuelFountain.github.io/rush/</loc>
   </url>
   
   <url>
